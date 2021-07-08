@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background: linear-gradient(#4287f5 0%, #4bf542 100%);
+    display: block;
+    margin: 8px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#welcome {
+    padding: 70px;
+    text-align: center:;
+}
+
+section {
+    display: block;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 42;
+    background: pink;
+}
